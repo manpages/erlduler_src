@@ -8,5 +8,7 @@
 
 	<body>
 		<h1>Here be dragons</h1>
+		Content:<br />
+		<?= sch_util:keyfind(content, Arg) ?>
 	</body>
 </html>
