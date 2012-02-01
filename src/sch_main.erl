@@ -7,7 +7,7 @@
 -compile(export_all).
 
 work (Params, Arg) -> 
-	show("Hello, world of https").
+	show(hehe:run("sch/html/stats.hehe")).
 
 show(Content) ->
     [   
